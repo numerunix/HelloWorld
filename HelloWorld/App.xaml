@@ -1,0 +1,12 @@
+﻿<Application x:Class="HelloWorld.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HelloWorld" xmlns:System="clr-namespace:System;assembly=mscorlib"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <System:String x:Key="ciao">Hello</System:String>
+        <System:String x:Key="festafinita">the party is over: Francesca has to come</System:String>
+        <System:String x:Key="inseriscinome">Type your name</System:String>
+        <System:String x:Key="numeronesoft">Welcome to numeronesoft</System:String> 
+    </Application.Resources>
+</Application>
