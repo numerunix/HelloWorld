@@ -1,6 +1,6 @@
 # HelloWorld
 
-Un semplice hello world UWP in GPL
+Un complesso hello world UWP in GPL
 
 # Bibliografia
 https://www.tutorialspoint.com/xaml/xaml_resources.htm
